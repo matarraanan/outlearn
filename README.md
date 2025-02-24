@@ -1,4 +1,5 @@
 # Life Skills Improvement App
+![Alt Text](./assets/icon.png)
 
 ## Description
 The **Life Skills Improvement App** is a React Native web application designed to help users enhance real-life skills through structured guidance and interactive features. The app provides an intuitive user experience with a **vertical navigation bar** on the home screen and a **bottom tab navigator** throughout the application for seamless navigation.
