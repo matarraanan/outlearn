@@ -6,7 +6,7 @@ import SkillsScreen from './components/screens/SkillsScreen';
 import ProfileScreen from './components/screens/ProfileScreen';
 import SettingsScreen from './components/screens/SettingsScreen';
 import VerticalNavBar from './components/navigation/VerticalNavBar';
-import CustomTabBar from './components/navigation/CustomTabBar';  // Assuming you already have this component
+import CustomTabBar from './components/navigation/CustomTabBar';  
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('Home');
