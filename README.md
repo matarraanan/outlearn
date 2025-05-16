@@ -41,11 +41,11 @@ The **Life Skills Improvement App** is a React Native web application designed t
 - **Offline Mode** – Access content without an internet connection.
 
 ## Developer Credits & Contributions
-**Developed by:** Outlearn, (Matar Raanan)
+**Developed by:** Outlearn Developers, (Matar Raanan , Shahd Tarabiah , Yasmen shadafna)
 
 **Contributions:** We welcome contributions! Feel free to fork this repository, create feature branches, and submit pull requests.
 
-For any queries, reach out via matarraanan559@gmail.com.
+For any queries, reach out via outlearn@gmail.com.
 
 ---
 
